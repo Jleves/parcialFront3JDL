@@ -1,5 +1,6 @@
 import './App.css'
-import { Card } from './Components/Card'
+
+import Formulario from './Components/Formulario/Formulario'
 
 function App() {
   
@@ -8,9 +9,9 @@ function App() {
    
     <div className='App'>
       <h1>Carga de estudiantes</h1>
-      <form></form>
+      <Formulario />
 
-      <Card />
+      
       
       </div>
     
